@@ -1,64 +1,64 @@
 [[tblis]]
 arch = "x86_64"
-git-tree-sha1 = "90988f7fe668f7692137684cff3dbaa6aef33228"
+git-tree-sha1 = "bad39b751ed9b819c0e04ac492bb388e5b494858"
 os = "macos"
 
     [[tblis.download]]
-    sha256 = "27e690cdcf86c6c6a63e817a1a3fcdb2d6971c865a0b5b8bf93b0f45244e066f"
-    url = "https://github.com/JuliaBinaryWrappers/tblis_jll.jl/releases/download/tblis-v1.2.0+2/tblis.v1.2.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "7c2e882d7c2fccb049d3bc301745a3792594fa171f6796628267ecec9b31735c"
+    url = "https://github.com/JuliaBinaryWrappers/tblis_jll.jl/releases/download/tblis-v1.2.0+3/tblis.v1.2.0.x86_64-apple-darwin.tar.gz"
 [[tblis]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ab65bf2240f1d4ddaec501ae9f0e7389eaff60c2"
+git-tree-sha1 = "68843265f1376289359e93f4dc05e88ffb48087c"
 libc = "glibc"
 os = "linux"
 
     [[tblis.download]]
-    sha256 = "0f288b5fd636bb324997d3846d824af75680e6594a9db7387af882f1b93928ad"
-    url = "https://github.com/JuliaBinaryWrappers/tblis_jll.jl/releases/download/tblis-v1.2.0+2/tblis.v1.2.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "c15a36dcb136ab1755e127f5c681b177d738475e249832346b3312c77413cc4b"
+    url = "https://github.com/JuliaBinaryWrappers/tblis_jll.jl/releases/download/tblis-v1.2.0+3/tblis.v1.2.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[tblis]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0d87a4de4dd45bff1a5a45f33f83fc152657662e"
+git-tree-sha1 = "1cd26ea022b106e1b653c0278a3e1a5d08f96ab7"
 libc = "glibc"
 os = "linux"
 
     [[tblis.download]]
-    sha256 = "f57ea5851f3c58d3da5e6d0c494b953fc5caff8cd8b2056ce3989ca67e8c660e"
-    url = "https://github.com/JuliaBinaryWrappers/tblis_jll.jl/releases/download/tblis-v1.2.0+2/tblis.v1.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "31074c180e8f3e5d0f2c2e562b1d2dce60f5413793581072752ceab5874b2e47"
+    url = "https://github.com/JuliaBinaryWrappers/tblis_jll.jl/releases/download/tblis-v1.2.0+3/tblis.v1.2.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[tblis]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3f6785e1dfe181cf23f054d1193b3e7f0186c6f0"
+git-tree-sha1 = "d33332d00d3b393df984cd81d252dc2be2a725b2"
 libc = "musl"
 os = "linux"
 
     [[tblis.download]]
-    sha256 = "25850ab7ff30c31548f5efe21991c429660bc4199bb01483fa9ff7d81d98d1ac"
-    url = "https://github.com/JuliaBinaryWrappers/tblis_jll.jl/releases/download/tblis-v1.2.0+2/tblis.v1.2.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "06c5f10d2380b10f05374799b0f9a45ee131cd0eb6550fa9d2f27bf8ee4e10cd"
+    url = "https://github.com/JuliaBinaryWrappers/tblis_jll.jl/releases/download/tblis-v1.2.0+3/tblis.v1.2.0.x86_64-linux-musl-cxx11.tar.gz"
 [[tblis]]
 arch = "x86_64"
-git-tree-sha1 = "ad703eb5f0769167091f1f435db8c99d75e826b2"
+git-tree-sha1 = "0d1555d05be29424ece47eb3c8a8e3edc5b1a76e"
 os = "freebsd"
 
     [[tblis.download]]
-    sha256 = "d252ae78ca47c272efc2d2d03dc6bba276459e8f8a91f34e407e0409dee9b37b"
-    url = "https://github.com/JuliaBinaryWrappers/tblis_jll.jl/releases/download/tblis-v1.2.0+2/tblis.v1.2.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "b24082f7005909d49fcb758043d0418031af3243ec460d77b9916c354f32945f"
+    url = "https://github.com/JuliaBinaryWrappers/tblis_jll.jl/releases/download/tblis-v1.2.0+3/tblis.v1.2.0.x86_64-unknown-freebsd.tar.gz"
 [[tblis]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3914c3cd831f8f620060a218c453c4330ce984e3"
+git-tree-sha1 = "651d14608cdbf2d341036db97b04097c8e8229d7"
 os = "windows"
 
     [[tblis.download]]
-    sha256 = "03cef496d270f6dbba2f81528b57a4fb2ee59acf1bf01e5c0626cb2b3f6f0134"
-    url = "https://github.com/JuliaBinaryWrappers/tblis_jll.jl/releases/download/tblis-v1.2.0+2/tblis.v1.2.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "2d76ca08f4cce3b2b3a0cdbb56bcd05b2ae724e869cdfd5e50538bfcb2cd7b9c"
+    url = "https://github.com/JuliaBinaryWrappers/tblis_jll.jl/releases/download/tblis-v1.2.0+3/tblis.v1.2.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[tblis]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "408d9e7bcc826e28b8f4e79131a3bd6dad09d06f"
+git-tree-sha1 = "9f07118527b36952629ea411bdd8e336cb0d0eca"
 os = "windows"
 
     [[tblis.download]]
-    sha256 = "74d7fb4599ead573d6aaddbc3de85c8362a641bdb8651c9054fef8bf4e3f02b6"
-    url = "https://github.com/JuliaBinaryWrappers/tblis_jll.jl/releases/download/tblis-v1.2.0+2/tblis.v1.2.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "57ff6044038c5b3bcd8d271f25c2efcf5e3ec8c99063993ac0d32dd047022bfb"
+    url = "https://github.com/JuliaBinaryWrappers/tblis_jll.jl/releases/download/tblis-v1.2.0+3/tblis.v1.2.0.x86_64-w64-mingw32-cxx11.tar.gz"
