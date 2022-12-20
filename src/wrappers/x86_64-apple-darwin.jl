@@ -2,12 +2,13 @@
 export tblis, tci
 
 using Hwloc_jll
+using CompilerSupportLibraries_jll
 using LLVMOpenMP_jll
 JLLWrappers.@generate_wrapper_header("tblis")
 JLLWrappers.@declare_library_product(tblis, "@rpath/libtblis.0.dylib")
 JLLWrappers.@declare_library_product(tci, "@rpath/libtci.0.dylib")
 function __init__()
-    JLLWrappers.@generate_init_header(Hwloc_jll, LLVMOpenMP_jll)
+    JLLWrappers.@generate_init_header(Hwloc_jll, CompilerSupportLibraries_jll, LLVMOpenMP_jll)
     JLLWrappers.@init_library_product(
         tblis,
         "lib/libtblis.0.dylib",
